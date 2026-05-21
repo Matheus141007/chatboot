@@ -1,1 +1,2 @@
-# resen.ia-v2
+# chatboot
+# um chatboot de resenha
